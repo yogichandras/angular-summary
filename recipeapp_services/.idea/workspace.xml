@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4434fed-1871-4a43-bfc9-cc3f9479759b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/recipeapp/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/recipeapp/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipeapp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/recipeapp/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipeapp/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/recipeapp/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipeapp/src/app/auth/auth-interceptor.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/recipeapp/src/app/auth/auth-interceptor.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipeapp/src/app/auth/auth.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/recipeapp/src/app/auth/auth.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipeapp/src/app/auth/auth.guard.ts" beforeDir="false" afterPath="$PROJECT_DIR$/recipeapp/src/app/auth/auth.guard.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipeapp/src/app/auth/auth.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/recipeapp/src/app/auth/auth.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipeapp/src/app/core.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/recipeapp/src/app/core.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipeapp/src/app/header/header.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/recipeapp/src/app/header/header.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipeapp/src/app/recipes/recipe.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/recipeapp/src/app/recipes/recipe.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipeapp/src/app/shopping-list/shopping-edit/shopping-edit.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/recipeapp/src/app/shopping-list/shopping-edit/shopping-edit.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipeapp/src/app/shopping-list/shopping-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/recipeapp/src/app/shopping-list/shopping-list.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipeapp/src/app/shopping-list/shopping-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/recipeapp/src/app/shopping-list/shopping-list.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipeapp/src/app/shopping-list/shopping-list.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/recipeapp/src/app/shopping-list/shopping-list.service.backup.ts" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/recipeapp" />
+  </component>
+  <component name="ProjectId" id="1OaM0pbd7X6c3fCcQrRo14oQG9f" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="ts.external.directory.path" value="E:\yogi\Angular\recipeapp\recipeapp\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\yogi\Angular\recipeapp\recipeapp\src\app\shopping-list\store" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4434fed-1871-4a43-bfc9-cc3f9479759b" name="Default Changelist" comment="" />
+      <created>1558948228899</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558948228899</updated>
+      <workItem from="1558948231529" duration="6065000" />
+      <workItem from="1559051934887" duration="438000" />
+      <workItem from="1559205733191" duration="3109000" />
+      <workItem from="1559219748406" duration="1822000" />
+      <workItem from="1559285071440" duration="676000" />
+      <workItem from="1559906076450" duration="4204000" />
+      <workItem from="1559993559193" duration="6763000" />
+      <workItem from="1560079638891" duration="724000" />
+      <workItem from="1560133157099" duration="9921000" />
+      <workItem from="1560228386787" duration="7296000" />
+      <workItem from="1560318708280" duration="1446000" />
+      <workItem from="1560504844376" duration="2704000" />
+      <workItem from="1560601725143" duration="8107000" />
+      <workItem from="1560681894913" duration="589000" />
+      <workItem from="1560688660214" duration="225000" />
+      <workItem from="1560919757744" duration="1528000" />
+      <workItem from="1561000449972" duration="2194000" />
+      <workItem from="1561374181953" duration="7406000" />
+      <workItem from="1561533156966" duration="11407000" />
+      <workItem from="1561605220032" duration="3072000" />
+      <workItem from="1561980995113" duration="2966000" />
+      <workItem from="1562040027897" duration="40000" />
+      <workItem from="1562214219597" duration="1378000" />
+      <workItem from="1562241343760" duration="4435000" />
+      <workItem from="1562350557102" duration="513000" />
+      <workItem from="1563431957535" duration="3181000" />
+      <workItem from="1563502985380" duration="1706000" />
+      <workItem from="1563521441426" duration="63000" />
+      <workItem from="1563593133889" duration="5007000" />
+      <workItem from="1564203812379" duration="4864000" />
+      <workItem from="1564211053818" duration="3847000" />
+      <workItem from="1564284713279" duration="5271000" />
+      <workItem from="1564382624398" duration="19761000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../training/training-app/node_modules/.staging/karma-909975a6/config.tpl.js" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
